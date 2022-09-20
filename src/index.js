@@ -1,10 +1,6 @@
 import './css/styles.css';
 
 import { fetchCountries } from './js/fetchCountries';
-// import renderCountryList from './js/renderCountry';
-// import renderCountryInfo from './js/renderCountry';
-// import alertWrongName from './js/renderCountry';
-// import alertTooManyMatches from './js/renderCountry';
 
 import debounce from 'lodash.debounce';
 import Notiflix from 'notiflix';
